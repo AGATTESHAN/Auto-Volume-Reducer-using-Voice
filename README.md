@@ -1,4 +1,4 @@
-# Voice-using-Volume-Controller
+# Auto-Volume-Reducer-using-Voice
 
 A background Python service that utilizes on-device Edge AI to capture ambient audio and autonomously reduce Windows system volume when a specific trigger phrase (used Hey Jarvis) is detected.
 
